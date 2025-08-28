@@ -47,7 +47,7 @@ lib/
 
 1.b Dart Basics Program: Demonstrates core Dart concepts like variables, loops, and functions within a Flutter widget.
 
-###2. Widgets & Layouts
+### 2. Widgets & Layouts
 
 2.a Widgets Showcase: Explores fundamental widgets like Text, Container, and Image.
 
